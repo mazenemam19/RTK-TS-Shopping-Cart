@@ -5,7 +5,7 @@ Example shopping cart application for learning redux and redux toolkit.
 ## 🚀 Getting Started
 
 - open terminal
-- git clone `https://github.com/mazenadel19/RTK-TS-Shopping-Cart.git`
+- git clone `https://github.com/mazenemam19/RTK-TS-Shopping-Cart.git`
 - cd RTK-TS-Shopping-Cart
 - `npm i`
 - `npm run dev`
